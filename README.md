@@ -104,7 +104,7 @@ npm run dev
 
 The application will start on:
 
-http://localhost:3000  
+http://localhost:3500  
 
 Open this link in your browser to use the app.
 
