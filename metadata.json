@@ -1,0 +1,5 @@
+{
+  "name": "TechCorp Semantic FAQ Assistant",
+  "description": "A lightweight, intelligent FAQ chatbot using hybrid TF-IDF and Fuzzy matching logic for precise query resolution.",
+  "requestFramePermissions": ["microphone"]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "category": "General",
+    "question": "What does TechCorp do?",
+    "answer": "TechCorp is a leading provider of innovative software solutions, specializing in AI-driven analytics, cloud infrastructure, and enterprise security."
+  },
+  {
+    "category": "Education",
+    "question": "Tell me about TechCorp University",
+    "answer": "TechCorp University is our premier internal learning institution, offering advanced certifications in AI, Cloud Computing, and Cyber Security to our employees and partners."
+  },
+  {
+    "category": "Education",
+    "question": "What is your college or institution like?",
+    "answer": "Our learning institution (TechCorp University) features state-of-the-art virtual labs, mentorship from industry veterans, and a curriculum that evolves with the tech landscape."
+  },
+  {
+    "category": "General",
+    "question": "Where is TechCorp headquartered?",
+    "answer": "Our global headquarters is located in Silicon Valley, California, with regional offices in London, Tokyo, and Bangalore."
+  },
+  {
+    "category": "General",
+    "question": "How can I contact TechCorp support?",
+    "answer": "You can reach our support team via email at support@techcorp.com or through our 24/7 live chat on the website."
+  },
+  {
+    "category": "Employment",
+    "question": "Are you currently hiring?",
+    "answer": "Yes! We are always looking for talented individuals. Please visit our Careers page at techcorp.com/careers to see open positions."
+  },
+  {
+    "category": "Employment",
+    "question": "What benefits does TechCorp offer?",
+    "answer": "We offer competitive salaries, comprehensive health insurance, flexible remote work options, 401(k) matching, and continuous learning stipends."
+  },
+  {
+    "category": "Employment",
+    "question": "Does TechCorp offer internships?",
+    "answer": "Yes, we have a robust summer internship program for students in engineering, product management, and design."
+  },
+  {
+    "category": "Products",
+    "question": "What is TechCorp's flagship product?",
+    "answer": "Our flagship product is 'NovaAnalytics', an AI-powered platform that provides real-time business intelligence and predictive insights."
+  },
+  {
+    "category": "Products",
+    "question": "Does TechCorp offer cloud storage?",
+    "answer": "Yes, our 'SkyVault' service provides secure, scalable, and high-performance cloud storage solutions for enterprises."
+  },
+  {
+    "category": "Products",
+    "question": "Is there a free trial for NovaAnalytics?",
+    "answer": "Absolutely! We offer a 14-day free trial for NovaAnalytics with full access to all premium features."
+  },
+  {
+    "category": "Security",
+    "question": "How does TechCorp protect user data?",
+    "answer": "We use industry-standard AES-256 encryption, multi-factor authentication, and regular third-party security audits to ensure your data is safe."
+  },
+  {
+    "category": "Security",
+    "question": "Is TechCorp GDPR compliant?",
+    "answer": "Yes, TechCorp is fully compliant with GDPR, CCPA, and other major global data protection regulations."
+  },
+  {
+    "category": "Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards, PayPal, and wire transfers for enterprise accounts."
+  },
+  {
+    "category": "Billing",
+    "question": "Can I cancel my subscription anytime?",
+    "answer": "Yes, you can cancel your monthly subscription at any time through your account dashboard. Annual plans have different terms."
+  },
+  {
+    "category": "Technical",
+    "question": "Does TechCorp have an API?",
+    "answer": "Yes, we provide comprehensive RESTful APIs for all our major products. Documentation is available at developer.techcorp.com."
+  },
+  {
+    "category": "Technical",
+    "question": "What programming languages does TechCorp use?",
+    "answer": "Our core stack includes TypeScript, Python, Go, and Rust, depending on the specific service and performance requirements."
+  },
+  {
+    "category": "General",
+    "question": "Who is the CEO of TechCorp?",
+    "answer": "TechCorp is led by our co-founder and CEO, Dr. Elena Vance, a pioneer in the field of distributed systems."
+  },
+  {
+    "category": "General",
+    "question": "When was TechCorp founded?",
+    "answer": "TechCorp was founded in 2015 with the mission to democratize high-performance computing."
+  },
+  {
+    "category": "Products",
+    "question": "Does TechCorp support mobile apps?",
+    "answer": "Yes, NovaAnalytics and SkyVault both have native iOS and Android applications for on-the-go access."
+  },
+  {
+    "category": "Technical",
+    "question": "What is the uptime guarantee for SkyVault?",
+    "answer": "We offer a 99.99% uptime Service Level Agreement (SLA) for all our enterprise cloud services."
+  },
+  {
+    "category": "Technical",
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page, and we'll send a reset link to your registered email address."
+  },
+  {
+    "category": "General",
+    "question": "Does TechCorp have a sustainability program?",
+    "answer": "Yes, we are committed to being carbon-neutral by 2030 and use 100% renewable energy for our data centers."
+  },
+  {
+    "category": "Billing",
+    "question": "Do you offer discounts for non-profits?",
+    "answer": "Yes, we offer a 50% discount on all our software products for registered non-profit organizations."
+  },
+  {
+    "category": "Employment",
+    "question": "What is the work culture at TechCorp?",
+    "answer": "Our culture is built on transparency, innovation, and work-life balance. We value diverse perspectives and collaborative problem-solving."
+  },
+  {
+    "category": "Security",
+    "question": "Where are TechCorp's data centers located?",
+    "answer": "Our primary data centers are located in the US, Germany, and Singapore to ensure low latency and data residency compliance."
+  },
+  {
+    "category": "Products",
+    "question": "Can I integrate TechCorp products with Slack?",
+    "answer": "Yes, we have first-class integrations for Slack, Microsoft Teams, and Jira."
+  },
+  {
+    "category": "Technical",
+    "question": "What browser versions do you support?",
+    "answer": "We support the latest two versions of Chrome, Firefox, Safari, and Edge."
+  },
+  {
+    "category": "General",
+    "question": "Does TechCorp host events?",
+    "answer": "Yes, we host an annual developer conference called 'TechSum' and various local meetups throughout the year."
+  },
+  {
+    "category": "Billing",
+    "question": "How do I get an invoice for my payment?",
+    "answer": "Invoices are automatically generated and available for download in the 'Billing' section of your account settings."
+  },
+  {
+    "category": "Technical",
+    "question": "Is there a community forum?",
+    "answer": "Yes, you can join our community at community.techcorp.com to ask questions and share knowledge with other users."
+  },
+  {
+    "category": "General",
+    "question": "How many employees does TechCorp have?",
+    "answer": "Currently, TechCorp has over 1,200 employees globally and is growing rapidly."
+  }
+]
